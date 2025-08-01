@@ -7,7 +7,7 @@
 
 When I’m not simulating, I geek out over Linux, photography, retro gaming, and open‑source scientific software. I also curate non‑fiction reading lists and listen to metal, ambient, and experimental electronic music.
 
-🔐 Reach me via [email](mailto:sundar@sundar.guru) (My identity can be verified with [OpenPGP](https://gist.github.com/divergentrain/1731c1b2511553c8c58f322fdf7078d0).
-🌐 Learn more or connect: sundar.guru
+🔐 Reach me via [email](mailto:sundar@sundar.guru) (My identity can be verified with [OpenPGP](https://gist.github.com/divergentrain/1731c1b2511553c8c58f322fdf7078d0). \
+🌐 Learn more or connect: [sundar.guru](https://sundar.guru)
 
 Always glad to network with researchers, engineers, or hobbyists working at the intersection of science and computation.
